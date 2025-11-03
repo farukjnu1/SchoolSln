@@ -1,4 +1,4 @@
-# 🏫 School Management System (ASP.NET Core MVC)
+# 🏫 School Management System (ASP.NET Core Web API)
 
 A **comprehensive web application** for managing all aspects of a school, built using **ASP.NET Core MVC**.  
 This system streamlines administration, enhances communication, and provides real-time access to important school data for teachers, students, and administrators.
